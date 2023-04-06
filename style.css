@@ -1,0 +1,96 @@
+
+*body{
+    margin: 0;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    background-color: beige;
+
+}
+.header-section{
+   padding: 100px;
+}
+.top-section{
+    display: flex;
+}
+.half-weight{
+    width: 50%;
+    font-size: 20px;
+}
+#welcame p{
+    padding-right: 50px;
+}
+#section-image img {
+    width: 500px;
+}
+.style-span{
+    color: orange;
+}
+#visit-project{
+    background-color: crimson;
+    padding: 5px;
+    border-radius: 5px;
+    width: 80px;
+    height: 80px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+#visit-project:hover{
+   background-color: coral;
+
+}
+
+.section-2{
+    padding: 100px;
+}
+.main-ssection{
+    display: flex;
+}
+.Dream-Big{
+    width: 50%;
+    font-size: 23px;
+    text-align: end;
+}
+.Dream{
+    color: orange;
+    font-size: 40px;
+}
+#main-image img{
+ width: 500px;
+ padding-right: 50px;
+}
+
+.web-developer{
+    display: flex;
+    margin-left: 100px;
+}
+
+.pro-level{
+    width: 25%;
+    background-color: beige;
+    margin-left: 30px;
+    margin-right: 5px;
+    padding: 20px;
+    gap: 10px;
+    box-shadow: 10px 10px gainsboro ;
+    border-radius: 10px;
+    text-align: center;
+}
+#full-stack{
+    border-left: 7px solid green;
+}
+
+#mern-stack{
+    border-left: 7px solid red;
+}
+#wed-design{
+    border-left: 7px solid deeppink;
+}
+.footer{
+    background-color: black;
+    height: 200px;
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+    padding-top: 50px;
+}
